@@ -1,2 +1,16 @@
-# To-Do-List-Application-JAVA-
-A Java console-based to-do list application that allows users to manage tasks with add, complete, and delete functionality using object-oriented programming.
+# To-Do List Application (Java)
+
+## Description
+A Java console application to manage daily tasks with completion and deletion options.
+
+## Features
+- Add task
+- View tasks
+- Mark task as completed
+- Delete task
+
+## Concepts Used
+- OOP (classes & objects)
+- ArrayList
+- Scanner
+- Loops & conditions
